@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">mailApp</string>
+    <string name="connexion_txt">CONNEXION</string>
+    <string name="name_input">Name</string>
+    <string name="pass_input">Password</string>
 </resources>
